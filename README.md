@@ -1,7 +1,7 @@
 # Connect4
 Connect 4, Second Yeat College Project
 
-A classis turned based connect 4 games \n
+A classis turned based connect 4 games <br>
 The code is Franglish because it was a french college project.
 
 # How to
