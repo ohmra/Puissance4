@@ -11,7 +11,7 @@ The code is Franglish because it was a french college project.
   + javac Main.java
   + java Main
  
-## Using the executable file
+## Using the executable file (not visually updated)
 Download the executable and launch 
 
 # Functionnalities
