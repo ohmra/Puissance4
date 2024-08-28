@@ -2,7 +2,6 @@
 Connect 4, Second Year College Project
 
 A classis turned based connect 4 games <br>
-The code is Franglish because it was a french college project.
 
 # How to
 ## Using the source code
